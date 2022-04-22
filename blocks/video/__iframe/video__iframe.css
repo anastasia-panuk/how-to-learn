@@ -1,10 +1,10 @@
-.video__inframe {
+.video__iframe {
   width: 515px;
   height: 316px;
   border: 0;
   padding: 0 20px 0 0;
   }
 
-  .video__inframe:nth-of-type(2n) {
+  .video__iframe:nth-of-type(2n) {
     margin-right: 0;
     }
